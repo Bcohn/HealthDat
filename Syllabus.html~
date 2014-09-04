@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+<html lang = "en">
+  <head>
+<link rel= "stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet" type="text/css">
+    <meta charset = "utf-8">
+    <title> Syllabus </title>
+<link href="/menu_source/styles.css" rel="stylesheet" type="text/css">
+    <style>
+h1 { 
+font-family: ‘Open Sans’, sans-serif; font-weight: 400;
+}
+body{
+font-family: ‘Open Sans’, sans-serif; font-weight: 400;
+font-size: 14px;
+}
+    </style>
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+<meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1' />
+    </head>
+
+<h1> Week 1: Introduction </h1>
+
+<b> This week's themes </b>
+
+1.Overview of modern health policy in the U.S. and internationally
+2.Brief history of open data
+3.Introduction to data-driven journalism and policy analysis 
+
+Workshop: <a href="http://www.rstudio.com/"> Introduction to R, R Studio, and Statistical Computing</a>
+
+
+Readings: 
+Rosenthal, Elisabeth. <a href= "http://www.nytimes.com/2013/06/02/health/colonoscopies-explain-why-us-leads-the-world-in-health-expenditures.html?pagewanted=all"> "The $2.7 Trillion Medical Bill." The New York Times. The New York Times, 01 June 2013. Web. 07 Mar. 2014.</a>
+
+Rosenthal, Elisabeth. "American Way of Birth, Costliest in the World." The New York Times. The New York Times, 30 June 2013. Web. 07 Mar. 2014.
+
+Atul Gawande, “The Cost Conundrum – What a Texas town can teach us about  health care.” The New Yorker: June 1, 2009 
+
+Nolte, E, and C. Martin McKee. “Avoidable Through Health Care – Progress in the 
+US Lags that of Three European Countries,” Health Affairs August 2012.
+
+Groves, Peter, et al. "The ‘big data’revolution in healthcare." McKinsey Quarterly (2013).
+
+
+
+Week 2: Health Policy, where are we now and where can we get the data?
+Discussion of the Affordable Care Act
+Discussion of Medicare, Medicaid and employer based insurance
+Walkthrough of healthdata.gov
+Brief introduction to Application Programming Interfaces (APIs, how to easily download data) 
+Infographic assigned
+
+Workshop: Downloading data from healthdata.gov using the API 
+
+Readings:
+Jost, Timothy Stoltzfus. "Beyond Repeal—A Republican Proposal for Health Care Reform." New England Journal of Medicine (2014).
+
+Kaiser Family Foundation Summary of the Affordable Care Act
+
+Lukensmeyer, Carolyn J., Joseph P. Goldman, and David Stern. "Assessing public participation in an open government era." IBM Center for the Business of Government (2011).
+
+Baicker K, Chandra A. “Myths and misconceptions about U.S. health insurance.” Health Aff (Millwood). 2008 Nov-Dec;27(6):w533-43. 
+
+Silva, Liz PLOS’ New Data Policy: Public Access to Data, February 24 2014
+
+"Quantifying Memory.”: Web-Scraping: The Basics. N.p., n.d. Web. 07 Mar. 2014.
+
+
+Owens, Simon. "Can Todd Park Revolutionize the Health Care Industry?" The Atlantic. Atlantic Media Company, 02 June 2011. Web. 07 Mar. 2014.
+
+
+Week 3: Introduction to Analysis
+Special guest lecturer Dr. Jacqueline Milton professor of biostatistics at Boston University
+Brief discussion of descriptive statistics
+Overview of excel functionality and how it can link to .csv files acquired from APIs
+Introduction to R statistical analysis programming
+Health Policy Case Study using PGP data
+
+Workshop: To be provided by Dr. Jacqueline Milton
+
+Readings: To be provided by Dr. Jacqueline Milton
+
+Week 4: Medicare Overview & Quality Measures
+Discussion of Medicare, its history, its role in modern society, and its future. 
+Deep dive into Medicare quality ratings from ‘Hospital Compare’ 
+Overview of other Medicare datasets available for analysis. 
+Infographic due
+
+Workshop: Hospital Compare, where are America’s best hospitals? 
+Source: http://www.medicare.gov/hospitalcompare
+Readings:
+Kaiser Family Foundation. Medicare A Primer, January 2010
+
+Kaiser Family Foundation. Policy Options to Sustain Medicare for the Future, January 2013
+
+Epstein, AM. Public release of public performance data: A progress report from the front. JAMA 2000; 283(14):1884-1886
+
+
+
+Week 5:  Medicare Policy: Costs & Payments
+Overview of the great ‘cost’ debate in American heath care policy with a special focus on fee for service vs. value based purchasing
+Discuss data on Accountable Care Organizations and Patient Centered Medical Homes
+Deep dive into cost data
+
+
+Workshop:  Communicating Medicare Cost Data, Who’s the Cheapest?
+Source: https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/Medicare-Provider-Charge-Data/index.html
+
+Readings:
+Werner RM, Dudley RA. “Medicare’s New Hospital Value-Based Purchasing  Program Is Likely To Have Only A Small Impact On Hospital Payments.” Health Affairs September 2012 31:1932-1940.
+
+Young, Jeffrey. "Hospital Prices No Longer Secret As New Data Reveals Bewildering System, Staggering Cost Differences." The Huffington Post. TheHuffingtonPost.com, 08 May 2013. Web. 07 Mar. 2014.
+
+Data Visualization: http://glimmer.rstudio.com/muschellij2/Shiny_Health_Data/
+
+
+Beck, Melinda. "How to Bring the Price of Health Care Into the Open." The Wall Street Journal. Dow Jones & Company, 23 Feb. 2014. Web. 07 Mar. 2014.
+
+
+Rosenthal, Elisabeth. "In Need of a New Hip, but Priced Out of the U.S." The New York Times. The New York Times, 03 Aug. 2013. Web. 06 Mar. 2014.
+
+Rosenthal, Elisabeth. "The Soaring Cost of a Simple Breath." The New York Times. The New York Times, 12 Oct. 2013. Web. 07 Mar. 2014.
+
+Rosenthal, Elisabeth. "As Hospital Prices Soar, a Stitch Tops $500." The New York Times. The New York Times, 02 Dec. 2013. Web. 07 Mar. 2014.
+
+Rosenthal, Elisabeth. "Patients’ Costs Skyrocket; Specialists’ Incomes Soar." The New York Times. The New York Times, 18 Jan. 2014. Web. 07 Mar. 2014.
+
+
+
+Week 6: Data Visualization
+Discuss data visualization techniques relevant to policy analysis & policy related data driven journalism
+Brief overview of interactive visualizations 
+Journalism piece assigned
+
+Workshop:  Creating A Graphic of the Access America’s Low Income Population has to Healthcare
+Source: http://datacenter.commonwealthfund.org/ - ind=600/sc=47
+
+Readings:
+Nessa, Shazna. "Visual Literacy in an Age of Data - Learning - Source: An OpenNews Project." Visual Literacy in an Age of Data - Learning - Source: An OpenNews Project. Source Open News, Jan. 2013. Web. 07 Mar. 2014.
+
+Reichenstein, Oliver. "Learning to See." Information Architects. N.p., 19 Mar. 2013. Web. 07 Mar. 2014.
+
+Dubakov, Michael. "Visual Encoding." Target Process. N.p., Sept. 2012. Web. 07 Mar. 2014.
+
+
+Week 7: Medicaid Overview & Long Term Care Discussion
+Discuss the modern role of Medicaid and how it predominantly pays for long term care
+
+Workshop:  Nursing Home Compare: What does a bad nursing home look like?
+Source: http://www.medicare.gov/nursinghomecompare/
+
+Readings:
+Kaiser Commission on Medicaid and the Uninsured, Medicaid: A Primer, March 2013
+
+Kaiser Commission on Medicaid and the Uninsured, Medicaid's Role for Dual Eligible 
+Beneficiaries, April 2012
+
+Kaye HS, Harrington C, LaPlante MP. Long-term care: who gets it, who provides it,  who pays, and how much? Health Aff (Millwood). 2010 Jan-Feb;29(1):11-21.
+
+
+Week 8: Medicaid Expansion & the Children’s Health Insurance Program (CHIP)
+Focus on the effects that the Affordable Care Act is having on Medicaid, and state level push back. 
+Discuss the CHIP program and it’s relevance to modern health care policy.
+Journalism piece due
+
+Workshop: Medicaid Expansion: How are the expanding states different from those that are not?
+Source:  http://healthdata.gov/data/dataset/medicaid-statistical-information-system-msis
+
+Readings: 
+Sommers, B. Baicker, K. Epstein, A. Mortality and Access to Care among Adults after State Medicaid Expansions. New England Journal of Medicine, 2012. 
+
+Kaiser Family Foundation, Getting into Gear for 2014: Findings From a 50-State Survey of Eligibility, Enrollment, Renewal and Cost-Sharing Policies in Medicaid and CHIP, 2012-2013, January 2013
+
+Kaiser Family Foundation, CHIP Enrollment: June 2013 Data Snapshot, January 2014
+
+
+Week 9: State level policy focus on all payer claims databases
+Overview of recent developments in state level policy
+Breakdown All Payer Claims Databases
+Discuss the roles of the Health Policy Commission and Center for Health Information and Analysis (new Massachusetts policy organizations) in the context of state health policy reform. 
+
+Workshop:  Data SF, looking at a city’s health and retirement benefits
+Source:  http://opengovdata.pbworks.com/w/page/32816182/DataSF+-+Open+San+Francisco+Data+Sets
+
+Readings:
+Jon Kingsdale and John Bertko: “Insurance Exchanges Under Health Reform: Six 
+Design Issues For The States” in Health Affairs 29, No. 6 (2010): 1158–1163. 
+
+Weil A, Scheppach R. “New roles for states in health reform implementation.” Health Aff (Millwood). 2010 Jun;29(6):1178-82
+
+Center for Health Information and Analysis. Overview of the Massachusetts All Payer Claims Database. March, 2014.
+
+Health Policy Comission. 2013 Cost Trends Report. January, 2014. 
+
+Week 10: Policy Evaluation in-depth
+Discuss the role of policy evaluation in shaping new policy
+Overview of randomized controlled trials versus non-experimental evaluations
+Workshop designing a ‘hypothetical’ policy evaluation
+
+Readings:
+Baicker et al. “The Oregon Experiment Effects of Medicaid on Clinical Outcomes” NEJM 368(18), 2013:1713-1722.
+
+McCall, Nancy, and Jerry Cromwell. "Results of the Medicare Health Support disease-management pilot program." NEJM 365.18 (2011): 1704-1712.
+
+Smith, Jeffrey and Arthur Sweetman. 2010. “Putting the Evidence in Evidence-Based Policy” in 
+Productivity Commission (ed.), Strengthening Evidence Based Policy in the Australian Federation, 
+Volume 1: Proceedings. Canberra: Productivity Commission, 59-102. 
+
+Workshop:  Hypothetical Policy Evaluation Brainstorm
+
+
+Week 11: Student Presentations Week 1
+In this week approximately half of the students will present their class projects and discuss their findings with the class
+
+Readings:
+The readings for this week are to read and help edit a rough draft of each presenting student’s report.
+
+
+Week 12: Student Presentations Week 2
+In this week students will continue presenting their in class projects and discussing their findings with the class. 
+
+Readings: 
+The readings for this week are to read and help edit a rough draft of each presenting student’s report.
+
+Week 13: Conclusion
+Wrap up the course with a discussion of the role that open data, data driven journalism, and policy evaluation could play in shaping the healthcare policy of tomorrow.
+
+Workshop: Discuss next steps! 
+
+Readings:
+Murdoch, Travis B., and Allan S. Detsky. "The inevitable application of big data to health care." JAMA 309.13 (2013): 1351-1352.
+
+"Obamacare Spurring A New Generation Of Startups." TechCrunch. N.p., n.d. Web. 07 Mar. 2014.
+
+Read about Health and Human Services Entrepreneurs Program: http://www.hhs.gov/idealab/pathways/hhs-entrepreneurs/
